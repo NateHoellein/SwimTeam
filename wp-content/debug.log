@@ -10,3 +10,7 @@
 [11-Apr-2015 18:50:59 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /Users/nathanhoellein/Sites/wp-includes/wp-db.php on line 1386
 [11-Apr-2015 18:50:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /Users/nathanhoellein/Sites/wp-includes/wp-db.php on line 1416
 [11-Apr-2015 18:50:59 UTC] PHP Warning:  mysql_connect(): Connection refused in /Users/nathanhoellein/Sites/wp-includes/wp-db.php on line 1416
+[11-Apr-2015 18:56:30 UTC] PHP Parse error:  parse error in /Users/nathanhoellein/Sites/wp-content/themes/mamba/content.php on line 16
+[11-Apr-2015 18:58:21 UTC] PHP Parse error:  parse error in /Users/nathanhoellein/Sites/wp-content/themes/mamba/content.php on line 16
+[11-Apr-2015 18:58:23 UTC] PHP Parse error:  parse error in /Users/nathanhoellein/Sites/wp-content/themes/mamba/content.php on line 16
+[11-Apr-2015 18:59:06 UTC] PHP Parse error:  parse error in /Users/nathanhoellein/Sites/wp-content/themes/mamba/content.php on line 16
