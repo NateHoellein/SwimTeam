@@ -1,0 +1,47 @@
+body {
+    font-family: "Open Sans", Arial, sans-serif;
+}
+h1, h1 a, h1 a:hover {
+    color: #222;
+    font-family: "Oswald", Arial, sans-serif;
+    font-size: 3rem; 
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+}
+.single h1 {
+    font-size: 3rem;
+}
+h2, h2 a, h2 a:hover {
+    color: #222;
+    font-family: "Oswald", Arial, sans-serif; 
+    font-size: 1.75rem; 
+    text-transform: uppercase;
+}
+h3, h3 a, h3 a:hover {
+    color: #222;
+    font-family: "Oswald", Arial, sans-serif;
+    font-size: 1.5rem; 
+    text-transform: uppercase;
+}
+h4 {
+    color: #222;
+    font-family: "Oswald", Arial, sans-serif;
+    font-size: 1.25rem; 
+    font-weight: 400;
+    font-style: none;
+    text-transform: uppercase;
+}
+h5 {
+    color: #222;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 1.25rem; 
+    text-transform: none;
+    font-weight: bold;
+}
+h6 {
+    color: #222;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 1rem; 
+    text-transform: uppercase;
+}
